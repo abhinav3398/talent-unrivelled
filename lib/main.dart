@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Talent Unrivellad',
+              'Talent Unrivallad',
             ),
           ],
         ),
