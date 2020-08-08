@@ -6,6 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-- [Android binaries/apk are available at](https://github.com/abhinav3398/talent-unrivelled/tree/master/android/_build)
+- [Android binaries/apk are available at](https://github.com/abhinav3398/talent-unrivelled/tree/app-development/android/_build)
 
 todo: add/change description
